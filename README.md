@@ -48,7 +48,5 @@ _**My Projects in Data Science Bootcamp**_
 
 ### Python Programming
 - [x] Project: [pandas foundation]()
-- View in Datalore:  
+- View in Datalore:  https://datalore.jetbrains.com/view/notebook/d74rOBMOFr0Q3wTifHfZk3
 
-
-- View in Datalore:  
